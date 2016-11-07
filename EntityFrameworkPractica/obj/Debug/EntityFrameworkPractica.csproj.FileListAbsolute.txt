@@ -1,0 +1,14 @@
+c:\users\laboratorios.unlmlab.000\documents\visual studio 2012\Projects\EntityFrameworkPractica\EntityFrameworkPractica\bin\EntityFrameworkPractica.dll
+c:\users\laboratorios.unlmlab.000\documents\visual studio 2012\Projects\EntityFrameworkPractica\EntityFrameworkPractica\bin\EntityFrameworkPractica.pdb
+c:\users\laboratorios.unlmlab.000\documents\visual studio 2012\Projects\EntityFrameworkPractica\EntityFrameworkPractica\bin\EntityFramework.dll
+c:\users\laboratorios.unlmlab.000\documents\visual studio 2012\Projects\EntityFrameworkPractica\EntityFrameworkPractica\bin\EntityFramework.xml
+c:\users\laboratorios.unlmlab.000\documents\visual studio 2012\Projects\EntityFrameworkPractica\EntityFrameworkPractica\obj\Debug\EntityFrameworkPractica.csprojResolveAssemblyReference.cache
+c:\users\laboratorios.unlmlab.000\documents\visual studio 2012\Projects\EntityFrameworkPractica\EntityFrameworkPractica\obj\Debug\EntityFrameworkPractica.dll
+c:\users\laboratorios.unlmlab.000\documents\visual studio 2012\Projects\EntityFrameworkPractica\EntityFrameworkPractica\obj\Debug\EntityFrameworkPractica.pdb
+C:\Users\laboratorios.UNLMLAB.000\Desktop\entity\EntityFrameworkPractica\obj\Debug\EntityFrameworkPractica.csprojResolveAssemblyReference.cache
+C:\Users\laboratorios.UNLMLAB.000\Desktop\entity\EntityFrameworkPractica\obj\Debug\EntityFrameworkPractica.dll
+C:\Users\laboratorios.UNLMLAB.000\Desktop\entity\EntityFrameworkPractica\bin\EntityFrameworkPractica.dll
+C:\Users\laboratorios.UNLMLAB.000\Desktop\entity\EntityFrameworkPractica\bin\EntityFrameworkPractica.pdb
+C:\Users\laboratorios.UNLMLAB.000\Desktop\entity\EntityFrameworkPractica\bin\EntityFramework.dll
+C:\Users\laboratorios.UNLMLAB.000\Desktop\entity\EntityFrameworkPractica\bin\EntityFramework.xml
+C:\Users\laboratorios.UNLMLAB.000\Desktop\entity\EntityFrameworkPractica\obj\Debug\EntityFrameworkPractica.pdb
